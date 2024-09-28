@@ -1,0 +1,12 @@
+body{
+    background-color: #212529;
+}
+
+.btn:hover{
+    background-color: #212529;
+    border-width: 0;;
+}
+
+.container{
+    margin-top: 30vh;
+}
