@@ -2,9 +2,8 @@ body{
     background-color: #212529;
 }
 
-.btn:hover{
-    background-color: #212529;
-    border-width: 0;;
+.credit{
+    margin-top: 30vh;
 }
 
 .container{
